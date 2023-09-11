@@ -1,0 +1,11 @@
+@media (max-width: 576px) and (max-height: 640px) {
+
+.flex-row-item p {
+    word-wrap: break-word;
+    max-width: calc(10 * 1em);
+    overflow-wrap: break-word;
+}
+
+}
+
+/* woah thats it? :O */
