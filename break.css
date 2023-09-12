@@ -1,1 +1,8 @@
 
+p {
+  break-word: break-all;
+  width: 50px;
+}
+
+
+/* break word on the basis of width */
